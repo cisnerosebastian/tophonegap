@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "ar.com.qualitywebresources.tophonegap"
+        version     = "0.0.1" >
+
+    <name>To Phone Gap</name>
+
+    <description>
+        To Phone Gap Testing
+    </description>
+
+    <author href="http://qualitywebresources.com.ar/" email="qualitywebresources@gmail.com">
+        Quality Web Resources
+    </author>
+    
+    <preference name="phonegap-version"           value="2.9.0" />
+
+</widget>
